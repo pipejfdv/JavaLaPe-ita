@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/usuario/Documents/NetBeansProjects/LaPenita/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/usuario/Documents/NetBeansProjects/LaPenita/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'LaPenita 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'LaPenita 1.0-SNAPSHOT API'
+com.mycompany.lapenita
+MultipliClass
+SumaClass
+'C:/Users/usuario/Documents/NetBeansProjects/LaPenita/src/main/java/com/mycompany/lapenita/LaPenita.java'
+'C:/Users/usuario/Documents/NetBeansProjects/LaPenita/src/main/java/MultipliClass/Multiplicacion.java'
+'C:/Users/usuario/Documents/NetBeansProjects/LaPenita/src/main/java/SumaClass/Sumatoria.java'
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\src\main\java = 1668389421904
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\allclasses-index.html = 1668391762596
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\allpackages-index.html = 1668391762599
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\copy.svg = 1668391762631
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\element-list = 1668391762531
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\help-doc.html = 1668391762625
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\index-all.html = 1668391762617
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\index.html = 1668391762587
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\jquery-ui.overrides.css = 1668391762646
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\member-search-index.js = 1668391762603
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\module-search-index.js = 1668391762600
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\overview-summary.html = 1668391762621
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\overview-tree.html = 1668391762583
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\package-search-index.js = 1668391762601
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\script.js = 1668391762629
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\search-page.js = 1668391762636
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\search.html = 1668391762620
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\search.js = 1668391762634
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\stylesheet.css = 1668391762628
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\tag-search-index.js = 1668391762604
+C:\Users\usuario\Documents\NetBeansProjects\LaPenita\target\apidocs\type-search-index.js = 1668391762602

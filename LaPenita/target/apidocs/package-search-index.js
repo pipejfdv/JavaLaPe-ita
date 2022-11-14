@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.lapenita"},{"l":"MultipliClass"},{"l":"SumaClass"}];updateSearchResults();

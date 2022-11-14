@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.lapenita","l":"LaPenita"},{"p":"MultipliClass","l":"Multiplicacion"},{"p":"SumaClass","l":"Sumatoria"}];updateSearchResults();
